@@ -1,4 +1,5 @@
-﻿try
+//базовый 3
+try
 {
     Console.Write("Введите количество строк: ");
     int n = int.Parse(Console.ReadLine());
